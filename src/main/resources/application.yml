@@ -1,0 +1,10 @@
+client:
+  wayflyer:
+    baseUrl: billing.eng-test.wayflyer.com
+
+config:
+  maxDailyCharge: 10000
+
+simulator:
+  startDate: 2022-01-01
+  endDate: 2022-07-01
